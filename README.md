@@ -14,4 +14,4 @@ A new crackme every week and uploading the source code here.
 After creating the crackme I will reverse it and create a writeup of it.
 
 ## Installation / compiling
-> make or gcc <fileName.c>
+>gcc <fileName.c>
