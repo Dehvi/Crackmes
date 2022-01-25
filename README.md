@@ -10,8 +10,10 @@ A new crackme every week and uploading the source code here.
   -   anti-reverse engineering methods
 
 
-## Reverse engineering part
-After creating the crackme I will reverse it and create a writeup of it.
+## Reverse engineering 
+I will document the reverse engineering of crackmes I create and how it could be made more difficult to crack.
+
+I am using a win10 64bit system for reversing the crackmes.
 
 ## Installation / compiling
 >gcc <fileName.c>
