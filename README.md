@@ -8,12 +8,14 @@ A new crackme every week and uploading the source code here.
   -   Encryptions
   -   obfuscations
   -   anti-reverse engineering methods
+----
 
+### simpleCrackme.c
+This is a really simple and easy to reverse engineer and find the password. 
 
-## Reverse engineering 
-I will document the reverse engineering of crackmes I create and how it could be made more difficult to crack.
+### encrypted.c
+This is a bit harder than the previous one because the password is encrypted.
 
-I am using a win10 64bit system for reversing the crackmes.
-
+---
 ## Installation / compiling
 >gcc <fileName.c>
